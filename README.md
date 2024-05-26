@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/flask-notes-app.git
+    git clone https://github.com/abfaz/Note_Taking_App_1.git
     ```
 
 2. Navigate to the project directory:
