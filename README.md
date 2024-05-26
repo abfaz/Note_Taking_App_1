@@ -55,15 +55,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Open your web browser and go to `http://127.0.0.1:5000/`.
 
-## Project Structure
 
-flask-notes-app/
-│
-├── templates/
-│ └── home.html
-│
-├── app.py
-└── README.md
 
 
 ## Code Overview
