@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Navigate to the project directory:
     ```sh
-    cd flask-notes-app
+    cd Note_Taking_App_1
     ```
 
 3. Create a virtual environment:
